@@ -254,7 +254,7 @@ const Navbar: React.FC = React.memo(() => {
                 Test Your Skills
               </h3>
               <p className="mb-4 text-gray-300">
-                Join Cyfrin CodeHawks and compete for cash prizes!
+                Join Edu4teen and compete for cash prizes!
               </p>
               <div className="bg-white p-4 rounded-lg mb-4">
                 <Image
@@ -269,7 +269,7 @@ const Navbar: React.FC = React.memo(() => {
                 href="/codehawks"
                 className="inline-block bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition-colors duration-200"
               >
-                Go to Cyfrin CodeHawks →
+                Go to .... →
               </Link>
             </div>
           </div>
