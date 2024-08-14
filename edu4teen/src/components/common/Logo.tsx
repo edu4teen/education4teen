@@ -10,7 +10,7 @@ const Logo: React.FC<LogoProps> = (props) => {
       {...props}
       src="/image/simpleLogo.svg"
       width={100}
-      height={10}
+      height={1}
       alt="logo"
     />
   );
